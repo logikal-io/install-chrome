@@ -1,5 +1,5 @@
-Make Orb
-========
+Install Chrome
+==============
 GitHub Action for installing Chrome with ChromeDriver.
 
 Usage
