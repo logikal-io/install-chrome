@@ -1,6 +1,6 @@
 Install Chrome
 ==============
-GitHub Action for installing Chrome with ChromeDriver.
+GitHub Action for installing Chrome and ChromeDriver.
 
 Usage
 -----
