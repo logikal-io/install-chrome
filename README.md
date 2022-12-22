@@ -6,7 +6,7 @@ Usage
 -----
 ```yaml
 steps:
-  - uses: logikal-io/install-chrome@{release}
+  - uses: logikal-io/install-chrome@v1
     with:
       version: {version}
 ```
