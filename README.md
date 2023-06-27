@@ -8,7 +8,7 @@ GitHub Action for installing Chrome and ChromeDriver.
 ```yaml
 - uses: logikal-io/run-logikal-playbook@v1
   with:
-    roles: chrome
+    roles: chromedriver
     vars: '{"chrome_package_version": "{version}"}'
 ```
 
