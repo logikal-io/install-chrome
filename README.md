@@ -2,6 +2,16 @@ Install Chrome
 ==============
 GitHub Action for installing Chrome and ChromeDriver.
 
+**Note:** This action has been **deprecated**. You can migrate to using the more flexible
+[run-logikal-playbook action](https://github.com/marketplace/actions/run-logikal-playbook) instead:
+
+```yaml
+- uses: logikal-io/run-logikal-playbook@v1
+  with:
+    roles: chrome
+    vars: '{"chrome_package_version": "{version}"}'
+```
+
 Usage
 -----
 ```yaml
